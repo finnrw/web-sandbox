@@ -116,7 +116,7 @@
       </div>
       <!-- Submit -->
       <button
-        class="flex flex-col gap-4 bg-gradient-to-r from-purple-500 bg-pink-500 rounded-xl p-8"
+        class="flex flex-col gap-4 bg-gradient-to-r from-purple-500 bg-pink-500 hover:from-pink-500 hover:to-red-500 hover:bg-gradient-to-r transition-colors duration-200 rounded-xl p-8"
       >
         <h2 class=" font-bold text-4xl uppercase text-black text-center w-full">
           Submit
