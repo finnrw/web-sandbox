@@ -73,7 +73,7 @@
         </div>
         <textarea
           class="textarea h-full"
-          placeholder="Blog of my trip to Pluto..."
+          placeholder="Blog of my trip to Pluto with large high resolution images and videos..."
         />
       </div>
     </div>
