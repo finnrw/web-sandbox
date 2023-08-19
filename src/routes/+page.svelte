@@ -58,7 +58,7 @@
           </div>
         </div>
       </div>
-
+      <!-- Project Description -->
       <div
         class="flex flex-col gap-4 border-2 border-violet-500 rounded-xl p-8 h-min flex-grow"
       >
@@ -73,13 +73,14 @@
         </div>
         <textarea
           class="textarea h-full"
-          placeholder="Blog to keep my fans updated while I'm exploring Pluto..."
+          placeholder="Blog of my trip to Pluto..."
         />
       </div>
     </div>
     <div class="flex flex-col gap-8">
+      <!-- About you -->
       <div
-        class="flex flex-col gap-4 border-2 border-purple-500 rounded-xl p-8 flex-grow"
+        class="flex flex-col gap-4 border-2 border-purple-500 rounded-xl p-8 flex-grow justify-center"
       >
         <h2 class=" font-bold text-4xl uppercase text-purple-500 pb-4">
           About You
@@ -113,6 +114,7 @@
           class="input w-full max-w-xs"
         />
       </div>
+      <!-- Submit -->
       <button
         class="flex flex-col gap-4 bg-gradient-to-r from-purple-500 bg-pink-500 rounded-xl p-8"
       >
